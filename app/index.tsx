@@ -1,4 +1,4 @@
-import { Image, View,Text,ScrollView } from "react-native";
+ import { Image, View,Text,ScrollView } from "react-native";
 
 const DATA =[{title: '', subtitle:'',},
   {title: '', subtitle:'',},
